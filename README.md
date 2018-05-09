@@ -3,6 +3,8 @@
 
 #### May 2018 Cohort 
 
+Edward Apostol, instructor, University of Toronto SCS - edward.apostol@gmail.com
+
 
 -----------------------------------------
 
@@ -39,12 +41,12 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+Our slack channel is "class-1-private"
 
 -----------------------------------------
 
 
-[Homework Submission](http://bootcampspot-v2.com)
+[Homework Submission](http://bootcampspot-v2.com) - also for attendance submission!
 
 
 Live Office Hours: 45 minutes before class and 30 minutes after class
