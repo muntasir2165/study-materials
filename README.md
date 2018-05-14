@@ -3,7 +3,9 @@
 
 #### May 2018 Cohort 
 
-Edward Apostol, instructor, University of Toronto SCS - edward.apostol@gmail.com
+* Edward Apostol, instructor, University of Toronto SCS - edward.apostol@utoronto.ca
+* Max Che, instructor, University of Toronto SCS - maxche@gmail.com
+* Andre Small, instructor, University of Toronto SCS - arsmall@rogers.com
 
 
 -----------------------------------------
