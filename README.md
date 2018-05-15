@@ -5,7 +5,7 @@
 
 * Edward Apostol, instructor, University of Toronto SCS - edward.apostol@utoronto.ca
 * Max Che, instructor, University of Toronto SCS - maxche@gmail.com
-* Andre Small, instructor, University of Toronto SCS - arsmall@rogers.com
+* Andre Small, instructor, University of Toronto SCS - andre.small@utoronto.ca
 
 
 -----------------------------------------
