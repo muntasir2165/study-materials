@@ -1,6 +1,8 @@
 Coding Boot Camp - Part-Time Lesson Plans (Ver 2.0)
 This document outlines the current lesson order for the Full Stack Part Time Web Development Program. Using this guideline can give you a guideline on the topics to be discussed in the program
- 
+
+
+## May 
 #### Week 01 - HTML, CSS, and GIT
 - 1.1 - Introduction to HTML - The "Zen of Coding"
 - 1.2 - Git Basics - "Git n' Pro"
@@ -22,7 +24,8 @@ This document outlines the current lesson order for the Full Stack Part Time Web
 - 4.3 - Practical Example - "jQuery Calculator"
 
 ------------------------------------------------------
- 
+
+## June 
 #### Week 05  - JS Timers, Review, and the Interview
 - 5.1 - HTML, CSS and JavaScript Review and Check-In
 - 5.2 - JavaScript Review Continued, JQuery Review; JS Timers (setTimeout / setInterval)
@@ -44,12 +47,13 @@ This document outlines the current lesson order for the Full Stack Part Time Web
 - 8.3 - Deployment and Continuous Integration
 
 ------------------------------------------------------
- 
+
+## July 
 #### Week 9 - API Project Week 2 + Interview/Debug
 - 9.1 - Project Work Period
 - 9.2 - Last Project Work Period for Project One
 - 9.3 - First Project Presentations
- 
+
 #### Week 10 - Intro to Node.JS
 - 10.1 - Introducing "back-end" servers and the Node.js environment
 - 10.2 - Node.js - File System Management with FS and the NPM 'Request' Package 
@@ -67,6 +71,7 @@ This document outlines the current lesson order for the Full Stack Part Time Web
  
 ------------------------------------------------------
 
+## Aug 
 #### Week 13 - Node/Express Web Servers
 - 13.1 - Node.js - Coding with "native JavaScript" against Node.js
 - 13.2 - "Express Yourself" - An Introduction to the Express Framework
@@ -89,6 +94,7 @@ This document outlines the current lesson order for the Full Stack Part Time Web
  
 ------------------------------------------------------
 
+## Sep
 #### Week 17 - Node/Express Project Week Two
 - 17.1 - Group Project Organization / Planning / Github Setup
 - 17.2 - Branching, Code Review, Pull Requests - Collaborating with teammates on how to present your web app. 
@@ -111,6 +117,7 @@ This document outlines the current lesson order for the Full Stack Part Time Web
  
 ------------------------------------------------------
 
+## Oct
 #### Week 21 - Regionalized Content
 - These are extra materials we have provide you to learn by yourself, we will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because technologies is one of the fastest changing industries :)
 
