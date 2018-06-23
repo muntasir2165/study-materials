@@ -112,7 +112,12 @@ This document outlines the current lesson order for the Full Stack Part Time Web
 ------------------------------------------------------
 
 #### Week 21 - Regionalized Content
- 
+- These are extra materials we have provide you to learn on your own, we will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because the technologies is one of the fastest changing industry
+1. Introduction to C sharp (C#) -  Introduction to ASP.NET MVC, model validation; formatting annotations; and LINQ queries
+2. First Steps with Python -  First Steps with Danjgo, Django Forms & Request Handling
+3. First Steps with Java - Thinking Deeply About OOP, Loose Ends & More on Design
+4. PHPrimer -  Learning Laravel, Deep(er) Dive
+
 #### Week 22 - Computer Science Fundamentals
 - 22.1 - Basics of Algorithms - fundamental concept of algorithm development and efficiency including  benchmarking etc
 - 22.2 - Sorting Algorithms - express the insertion sort algorithm in pseudocode
