@@ -79,7 +79,7 @@ This document outlines the current lesson order for the Full Stack Part Time Web
  
 #### Week 15 - Sequelize[]
 - 15.1 - Intro to Sequelize ORM - Makes coding with MySQL databases a smoother experience
-- 15.2 - New Sequelize methods - Updating and deleting records and validations.
+- 15.2 - New Sequelize methods - Updating and deleting records and validations
 - 15.3 - Concept of relations in Sequelize - The "where" query attribute
  
 #### Week 16 - Testing & Node/Express Project Week One
@@ -91,42 +91,43 @@ This document outlines the current lesson order for the Full Stack Part Time Web
 
 #### Week 17 - Node/Express Project Week Two
 - 17.1 - Group Project Organization / Planning / Github Setup
-- 17.2 - Branching, Code Review, Pull Requests - collaborating with teammates on how to present your web app. 
+- 17.2 - Branching, Code Review, Pull Requests - Collaborating with teammates on how to present your web app. 
 - 17.3 - Present project apps
 
 #### Week 18 - MongoDB
 - 18.1 - Masters of MongoDB - The concept of the NoSQL database with MongoDB; Pros and cons compared with MySQL
-- 18.2 - Web Scraping and Server-Side Mongo - store data into a MongoDB database using Node and `MongoJS`
+- 18.2 - Web Scraping and Server-Side Mongo - Store data into a MongoDB database using Node and `MongoJS`
 - 18.3 - Riding with Mongoose -  Schemas, custom methods and the ability to create relations in a non-relational database
  
 #### Week 19 - ReactJS
-- 19.1 - An ES6travaganza - Intro to React need a basic primer in ES6.
-- 19.2 - Intro to React, Components and JSX -  building layouts through a component-based mindset.
-- 19.3 - Props, Lists, and Stateful Components - how to programmatically render components from a list of data, and introduce the concept of class components and component state.
+- 19.1 - An ES6travaganza - Intro to React need a basic primer in ES6
+- 19.2 - Intro to React, Components and JSX -  Building layouts through a component-based mindset
+- 19.3 - Props, Lists, and Stateful Components - How to programmatically render components from a list of data, and introduce the concept of class components and component state
  
 #### Week 20 - React, MERN
-- 20.1 - Forms, Conditional Rendering & React Router -  managing component state and cover performing AJAX requests, using forms, and conditionally rendering components
+- 20.1 - Forms, Conditional Rendering & React Router -  Managing component state and cover performing AJAX requests, using forms, and conditionally rendering components
 - 20.2 - MERN -  Connecting Create React App to an Express backend as well as deploying to Heroku.
 - 20.3 - Review, Homework, Final Projects -  React Checkpoint
  
 ------------------------------------------------------
 
 #### Week 21 - Regionalized Content
-- These are extra materials we have provide you to learn on your own, we will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because the technologies is one of the fastest changing industry
-1. Introduction to C sharp (C#) -  Introduction to ASP.NET MVC, model validation; formatting annotations; and LINQ queries
-2. First Steps with Python -  First Steps with Danjgo, Django Forms & Request Handling
-3. First Steps with Java - Thinking Deeply About OOP, Loose Ends & More on Design
-4. PHPrimer -  Learning Laravel, Deep(er) Dive
+- These are extra materials we have provide you to learn by yourself, we will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because technologies is one of the fastest changing industries :)
+
+1.  Introduction to C sharp (C#) -  Introduction to ASP.NET MVC, model validation; formatting annotations; and LINQ queries
+2.  First Steps with Python -  First Steps with Danjgo, Django Forms & Request Handling
+3.  First Steps with Java - Thinking Deeply About OOP, Loose Ends & More on Design
+4.  PHPrimer -  Learning Laravel, Deep(er) Dive
 
 #### Week 22 - Computer Science Fundamentals
-- 22.1 - Basics of Algorithms - fundamental concept of algorithm development and efficiency including  benchmarking etc
-- 22.2 - Sorting Algorithms - express the insertion sort algorithm in pseudocode
-- 22.3 - Big O & Data Structures - Intro to the notions of time complexity; Big O analysis; and basic data structures.
+- 22.1 - Basics of Algorithms - Fundamental concept of algorithm development and efficiency including  benchmarking etc
+- 22.2 - Sorting Algorithms - Express the insertion sort algorithm in pseudocode
+- 22.3 - Big O & Data Structures - Intro to the notions of time complexity; Big O analysis; and basic data structures
  
 #### Week 23 - Portfolios and Projects
-- 23.1 - Career HW Work - work on portfolios and any unfinished career homework assignments.
-- 23.2 - Completing Final Projects - continue working on their Portfolios & Career HW and Final Projects
-- 23.3 - Completing Final Projects - continue working on their Portfolios & Career HW and Final Projects
+- 23.1 - Career HW Work - Work on portfolios and any unfinished career homework assignments
+- 23.2 - Completing Final Projects - Continue working on their Portfolios & Career HW and Final Projects
+- 23.3 - Completing Final Projects - Continue working on their Portfolios & Career HW and Final Projects
  
 #### Week 24 - Final Projects
 - 24.1 - Center on Project Work - Make sure you make measurable progress with their projects.
