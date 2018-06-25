@@ -119,7 +119,8 @@ This document outlines the current lesson order for the Full Stack Part Time Web
 
 ## Oct
 #### Week 21 - Regionalized Content
-- These are extra materials we have provide you to learn by yourself, we will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because technologies is one of the fastest changing industries :)
+- These are extra materials we have provided you to learn on your own time. 
+- We will only cover one of the following topics throughout the week. It is important to be able to learn a new language on your own because technology is one of the fastest changing industries :)
 
 1.  Introduction to C sharp (C#) -  Introduction to ASP.NET MVC, model validation; formatting annotations; and LINQ queries
 2.  First Steps with Python -  First Steps with Danjgo, Django Forms & Request Handling
