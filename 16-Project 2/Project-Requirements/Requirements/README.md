@@ -22,4 +22,4 @@ Your project must:
 
 * Meet good quality coding standards (indentation, scoping, naming).
 
-* Must not expose sensitive API key information on the server, see [Protecting-API-Keys-In-Node.md](../../../10-nodejs/03-Supplemental/Protecting-API-Keys-In-Node.md)
+* Must not expose sensitive API key information on the server, see [Protecting-API-Keys-In-Node.md](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTORON201805FSF2/blob/master/10-nodejs/Supplemental/Protecting-API-Keys-In-Node.md)
