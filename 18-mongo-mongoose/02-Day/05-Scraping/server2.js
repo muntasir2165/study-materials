@@ -1,5 +1,5 @@
 var cheerio = require("cheerio");
-var request = require("request");
+var axios = require("axios");
 
 // First, tell the console what server2.js is doing
 console.log("\n******************************************\n" +
@@ -7,11 +7,11 @@ console.log("\n******************************************\n" +
             "from the NHL website:" +
             "\n******************************************\n");
 
-// Making a request for `nhl.com`'s homepage
-request("https://www.nhl.com/", function(error, response, html) {
+// Making a request via axios for `nhl.com`'s homepage
+axios.get("https://www.nhl.com/").then(function(response) {
 
   // Load the body of the HTML into cheerio
-  var $ = cheerio.load(html);
+  var $ = cheerio.load(response.data);
 
   // Empty array to save our scraped data
   var results = [];

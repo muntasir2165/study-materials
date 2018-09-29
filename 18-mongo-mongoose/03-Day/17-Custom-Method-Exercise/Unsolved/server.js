@@ -1,7 +1,6 @@
 // Add code to userModel.js to complete the model
 
 var express = require("express");
-var bodyParser = require("body-parser");
 var logger = require("morgan");
 var mongoose = require("mongoose");
 
@@ -17,13 +16,14 @@ var app = express();
 
 // Use morgan logger for logging requests
 app.use(logger("dev"));
-// Use body-parser for handling form submissions
-app.use(bodyParser.urlencoded({ extended: true }));
-// Use express.static to serve the public folder as a static directory
+// Parse request body as JSON
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+// Make public a static folder
 app.use(express.static("public"));
 
 // Connect to the Mongo DB
-mongoose.connect("mongodb://localhost/custommethoddb");
+mongoose.connect("mongodb://localhost/custommethoddb", { useNewUrlParser: true });
 
 // Routes
 

@@ -1,5 +1,5 @@
 var cheerio = require("cheerio");
-var request = require("request");
+var axios = require("axios");
 
 // First, tell the console what server3.js is doing
 console.log("\n******************************************\n" +
@@ -8,11 +8,11 @@ console.log("\n******************************************\n" +
             "grab the image's source URL." +
             "\n******************************************\n");
 
-// Make request to grab the HTML from `awwards's` clean website section
-request("http://www.awwwards.com/websites/clean/", function(error, response, html) {
+// Make request via axios to grab the HTML from `awwards's` clean website section
+axios.get("http://www.awwwards.com/websites/clean/").then(function(response) {
 
   // Load the HTML into cheerio
-  var $ = cheerio.load(html);
+  var $ = cheerio.load(response.data);
 
   // Make an empty array for saving our scraped info
   var results = [];

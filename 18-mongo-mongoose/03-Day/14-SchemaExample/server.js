@@ -5,7 +5,7 @@ var mongoose = require("mongoose");
 var Example = require("./exampleModel.js");
 
 // Connect to the Mongo DB
-mongoose.connect("mongodb://localhost/schemaexample");
+mongoose.connect("mongodb://localhost/schemaexample", { useNewUrlParser: true });
 
 // Create an object containing dummy data to save to the database
 var data = {

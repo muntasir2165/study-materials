@@ -9,8 +9,8 @@
 // Dependencies
 var express = require("express");
 var mongojs = require("mongojs");
-// Require request and cheerio. This makes the scraping possible
-var request = require("request");
+// Require axios and cheerio. This makes the scraping possible
+var axios = require("axios");
 var cheerio = require("cheerio");
 
 // Initialize Express

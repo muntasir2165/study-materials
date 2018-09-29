@@ -2,22 +2,18 @@
 
 // Dependencies
 var express = require("express");
-var bodyParser = require("body-parser");
 var logger = require("morgan");
 var mongojs = require("mongojs");
 
 // Initialize Express
 var app = express();
 
-// Configure our app for morgan and body parser
+// Configure our app for morgan and body parsing with express.json and express.urlEncoded
 app.use(logger("dev"));
-app.use(
-  bodyParser.urlencoded({
-    extended: false
-  })
-);
-
-// Static file support with public folder
+// Parse request body as JSON
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+// Make public a static folder
 app.use(express.static("public"));
 
 // Mongojs configuration

@@ -1,23 +1,20 @@
 // Dependencies
 var express = require("express");
 var mongojs = require("mongojs");
-var bodyParser = require("body-parser");
 var logger = require("morgan");
 
 var app = express();
 
 // Set the app up with morgan.
-// morgan is used to log our HTTP Requests. By setting morgan to 'dev' 
-// the :status token will be colored red for server error codes, 
-// yellow for client error codes, cyan for redirection codes, 
+// morgan is used to log our HTTP Requests. By setting morgan to 'dev'
+// the :status token will be colored red for server error codes,
+// yellow for client error codes, cyan for redirection codes,
 // and uncolored for all other codes.
 app.use(logger("dev"));
-// Setup the app with body-parser and a static folder
-app.use(
-  bodyParser.urlencoded({
-    extended: false
-  })
-);
+// Parse request body as JSON
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+// Make public a static folder
 app.use(express.static("public"));
 
 // Database configuration
