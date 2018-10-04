@@ -13,7 +13,7 @@ class Counter extends React.Component {
     return (
       <div className="card text-center">
         <div className="card-header bg-primary text-white">
-          <h3 className="card-title">Click Counter!</h3>
+          Click Counter!
         </div>
         <div className="card-body">
           <p className="card-text">Click Count: {this.state.count}</p>

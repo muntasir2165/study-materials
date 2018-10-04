@@ -22,4 +22,4 @@ In this activity we will add a "Decrement" button and click handler to the Click
 
 ### Bonus
 
-* Inside of `Counter.js`, separate the `panel-body` element and its children into a new component named `PanelBody`. Render `PanelBody` inside of the `Counter` component and pass the `count` state and click handlers to the new component as props. The completed bonus should still increment or decrement the counter when the buttons are clicked.
+* Inside of `Counter.js`, separate the `card-body` element and its children into a new component named `cardBody`. Render `cardBody` inside of the `Counter` component and pass the `count` state and click handlers to the new component as props. The completed bonus should still increment or decrement the counter when the buttons are clicked.
