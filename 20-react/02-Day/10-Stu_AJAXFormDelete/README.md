@@ -4,7 +4,7 @@ In this activity we will add functionality to the previous books example for sub
 
 ## Instructions
 
-* Open the [Unsolved](Unsolved) folder and install dependencies by running `yarn install` at the project root and `yarn install` again from within the `client` folder.
+* Open the [Unsolved](Unsolved) folder and install dependencies by running `yarn install` at the project root.
 
 * Start the app by running `yarn start` from the project root.
 

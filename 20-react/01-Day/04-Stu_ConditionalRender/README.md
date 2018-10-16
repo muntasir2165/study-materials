@@ -28,7 +28,7 @@ In this activity we will render one of four different components based upon our 
 
 ### Bonus
 
-* Inside of `src/components/NavTabs.js`, add code so that the `li` tag for the `currentPage` has the "active" class. This component receives the `currentPage` via props.
+* Inside of `src/components/NavTabs.js`, add code so that the `a` tag for the `currentPage` has the "active" class. This component receives the `currentPage` via props.
 
 ### Hints
 

@@ -1,7 +1,7 @@
 import React from "react";
 
 const styles = {
-  panel: {
+  card: {
     margin: 20,
     background: "#e8eaf6"
   },
@@ -16,7 +16,7 @@ const styles = {
 };
 
 const Navbar = () => (
-  <div style={styles.panel}>
+  <div style={styles.card}>
     <div style={styles.heading}>Home</div>
   </div>
 );

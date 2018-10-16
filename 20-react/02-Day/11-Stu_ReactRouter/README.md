@@ -4,7 +4,7 @@ In this activity we will add React Router to the Books application in order to r
 
 ## Instructions
 
-* Open the [Unsolved](Unsolved) folder and install dependencies by running `yarn install` at the project root and `yarn install` again from within the `client` folder.
+* Open the [Unsolved](Unsolved) folder and install dependencies by running `yarn install` at the project root.
 
 * Start the app by running `yarn start` from the project root.
 
